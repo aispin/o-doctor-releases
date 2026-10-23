@@ -1,20 +1,20 @@
 {
-  "version": "0.1.0",
-  "notes": "首个公开版本。功能：分区体检 + 按根目录分组的临时目录清理 + 进程清理 + 插件化。",
-  "pub_date": "2026-10-23T16:54:47Z",
+  "version": "0.1.1",
+  "notes": "0.1.1：插件结果按扫描根目录分组；新增插件详情页；设置页支持开机自启与检查更新；进程条目可结束。",
+  "pub_date": "2026-10-23T16:58:51Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFhSVUlwSngzNDBXdytRYnhzNG90R05Fc3BBekoxSXdZajhLOXAwQzVJc0lhNkVwU1BlTXAyR0RPZ3FBdjE5NTNQbldteW9pNjBPbEtFRlFmRGZpZGtSMEF1SStXNmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0NDYxCWZpbGU6TyBEb2N0b3IuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCnJKMWRicnFRd1d5L1M0TUp4Y3l2K1RxT1VhcUErSlo4bzFmaEl3VHU4UUxPaXlGRmFURHhCdU5EejJTejlNQXhzbzJsN1lCclhGNHN0ZWtJcGQ5bUF3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFhSVUlwSngzNDlKSlBtZy9kOGtJUlNzWVJBNjJ5bElPaEpCaTdvUkErZ0h3VFR5eEVJWkUvQzZ4L1hiSHdLWkJlYjhwdFFqSXVxRGNJNjhtZkw0aUVRVlp0cmRsandzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0NzE1CWZpbGU6TyBEb2N0b3IuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCi9raGhaRjdRNFkzc1gxb2Q1elpxb3N4UG5KcHUxb2g0WSs3UGxzZlNuQ1FhaXpPOUttcG5TQ3d2SEw5N2U2WlBYdy9GWTRDS0tUc1hiRlMxbHZDWER3PT0K",
       "url": "https://aispin.github.io/o-doctor-releases/downloads/O-Doctor.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFhSVUlwSngzNDBXdytRYnhzNG90R05Fc3BBekoxSXdZajhLOXAwQzVJc0lhNkVwU1BlTXAyR0RPZ3FBdjE5NTNQbldteW9pNjBPbEtFRlFmRGZpZGtSMEF1SStXNmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0NDYxCWZpbGU6TyBEb2N0b3IuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCnJKMWRicnFRd1d5L1M0TUp4Y3l2K1RxT1VhcUErSlo4bzFmaEl3VHU4UUxPaXlGRmFURHhCdU5EejJTejlNQXhzbzJsN1lCclhGNHN0ZWtJcGQ5bUF3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFhSVUlwSngzNDlKSlBtZy9kOGtJUlNzWVJBNjJ5bElPaEpCaTdvUkErZ0h3VFR5eEVJWkUvQzZ4L1hiSHdLWkJlYjhwdFFqSXVxRGNJNjhtZkw0aUVRVlp0cmRsandzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0NzE1CWZpbGU6TyBEb2N0b3IuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCi9raGhaRjdRNFkzc1gxb2Q1elpxb3N4UG5KcHUxb2g0WSs3UGxzZlNuQ1FhaXpPOUttcG5TQ3d2SEw5N2U2WlBYdy9GWTRDS0tUc1hiRlMxbHZDWER3PT0K",
       "url": "https://aispin.github.io/o-doctor-releases/downloads/O-Doctor.app.tar.gz"
     },
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFhSVUlwSngzNDBXdytRYnhzNG90R05Fc3BBekoxSXdZajhLOXAwQzVJc0lhNkVwU1BlTXAyR0RPZ3FBdjE5NTNQbldteW9pNjBPbEtFRlFmRGZpZGtSMEF1SStXNmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0NDYxCWZpbGU6TyBEb2N0b3IuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCnJKMWRicnFRd1d5L1M0TUp4Y3l2K1RxT1VhcUErSlo4bzFmaEl3VHU4UUxPaXlGRmFURHhCdU5EejJTejlNQXhzbzJsN1lCclhGNHN0ZWtJcGQ5bUF3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFhSVUlwSngzNDlKSlBtZy9kOGtJUlNzWVJBNjJ5bElPaEpCaTdvUkErZ0h3VFR5eEVJWkUvQzZ4L1hiSHdLWkJlYjhwdFFqSXVxRGNJNjhtZkw0aUVRVlp0cmRsandzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0NzE1CWZpbGU6TyBEb2N0b3IuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCi9raGhaRjdRNFkzc1gxb2Q1elpxb3N4UG5KcHUxb2g0WSs3UGxzZlNuQ1FhaXpPOUttcG5TQ3d2SEw5N2U2WlBYdy9GWTRDS0tUc1hiRlMxbHZDWER3PT0K",
       "url": "https://aispin.github.io/o-doctor-releases/downloads/O-Doctor.app.tar.gz"
     }
   },
-  "size": 3895074
+  "size": 3895359
 }
